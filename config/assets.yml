@@ -1,0 +1,23 @@
+package_assets: on
+compress_assets: on
+embed_assets: off
+javascripts:
+  common:
+    - public/javascripts/jquery.js
+    - public/javascripts/rails.js
+    - public/javascripts/jquery/jquery-1.4.4.js
+    - public/javascripts/jquery/jquery.labelify.js
+    - public/javascripts/jquery/jquery-ui-1.8.9.custom.min.js
+    - public/javascripts/jquery/jquery.colorbox.js
+    - public/javascripts/prettyCheckboxes.js
+    - public/javascripts/jquery.numeric.js
+    - public/javascripts/application.js
+stylesheets:
+  common:
+    - public/stylesheets/960.css
+    - public/stylesheets/style.css
+    - public/stylesheets/prettyCheckboxes.css
+    - public/stylesheets/humanity/jquery-ui-1.8.9.custom.css
+    - public/stylesheets/colorbox.css
+    - public/stylesheets/overide.css
+    - public/stylesheets/multipleselectbox.css
